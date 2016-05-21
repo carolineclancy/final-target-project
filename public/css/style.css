@@ -1,0 +1,87 @@
+
+.jumbotron.other-color {
+  padding: 0;
+  background-color: #FF0101 !important;
+  height: 400px;
+}
+
+#jumboText {
+  padding-top: 100px;
+  text-align: left;
+}
+/*.jumbotron.other-color {
+  background-color: #CF142B !important;
+  text-align:center;
+
+}*/
+
+#mainNav {
+  color: #C40000 !important;
+}
+
+
+.wrapper {
+  margin: auto;
+  display: block;
+  width: 25%;
+
+}
+
+
+small {
+  font-color: white; !important;
+}
+
+body {
+  background-color: white;
+  padding-top: 100px;
+}
+
+#catchPhrase {
+  color:white !important;
+}
+
+
+#map {
+	margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+ }
+
+ #drop-down{
+  padding-bottom: 25px;
+  text-align: center;
+  padding-right: 570px;
+}
+
+
+
+/*.jumbotron.other-color {
+  background-color: #CF142B !important;
+  text-align:center;
+
+}
+
+.wrapper {
+  margin: auto;
+  display: block;
+}
+
+small {
+  font-color: white; !important;
+}
+
+
+#map {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+  }
+
+#drop-down{
+	padding-bottom: 25px;
+}*/
